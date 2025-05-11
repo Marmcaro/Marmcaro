@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Mi nombre es Mar
 
 <p align="center">
-  <img src="./banner_Marmcaro.png" alt="Banner" />
+  <img src="./banner_Marmcaro.png" alt="Banner" width="800" />
 </p>
 
 <p align="center">
